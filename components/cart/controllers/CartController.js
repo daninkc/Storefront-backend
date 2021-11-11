@@ -56,7 +56,7 @@ class Cart {
         };
         return customError;
       }
-      if (product.length > 0) {
+      if (product && product.length > 0) {
         const { products } = item;
         products.push(product[0])
         data[cartId - 1] = item;
