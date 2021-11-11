@@ -10,7 +10,7 @@ app.use(cors("*"))
 
 app.use(express.json());
 app.use(urlencoded({ extended: true }));
-app.use(express.static(path.join(__dirname, "public")));
+app.use(express.static(path.join(__dirname, "public/build/static")));
 
 app.set("views", path.join(__dirname, "views", "ejs"));
 app.set("view engine", "ejs");
