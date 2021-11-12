@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "https://delicious-tan-adjustment.glitch.me/static/css/main.e7d22445.chunk.css",
-    "main.js": "https://delicious-tan-adjustment.glitch.me/static/js/main.f15859be.chunk.js",
-    "main.js.map": "https://delicious-tan-adjustment.glitch.me/static/js/main.f15859be.chunk.js.map",
+    "main.css": "https://delicious-tan-adjustment.glitch.me/static/css/main.68dc758f.chunk.css",
+    "main.js": "https://delicious-tan-adjustment.glitch.me/static/js/main.9ed77802.chunk.js",
+    "main.js.map": "https://delicious-tan-adjustment.glitch.me/static/js/main.9ed77802.chunk.js.map",
     "runtime-main.js": "https://delicious-tan-adjustment.glitch.me/static/js/runtime-main.0c472b90.js",
     "runtime-main.js.map": "https://delicious-tan-adjustment.glitch.me/static/js/runtime-main.0c472b90.js.map",
     "static/js/2.d5099739.chunk.js": "https://delicious-tan-adjustment.glitch.me/static/js/2.d5099739.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.0058ee82.chunk.js": "https://delicious-tan-adjustment.glitch.me/static/js/3.0058ee82.chunk.js",
     "static/js/3.0058ee82.chunk.js.map": "https://delicious-tan-adjustment.glitch.me/static/js/3.0058ee82.chunk.js.map",
     "index.html": "https://delicious-tan-adjustment.glitch.me/index.html",
-    "static/css/main.e7d22445.chunk.css.map": "https://delicious-tan-adjustment.glitch.me/static/css/main.e7d22445.chunk.css.map",
+    "static/css/main.68dc758f.chunk.css.map": "https://delicious-tan-adjustment.glitch.me/static/css/main.68dc758f.chunk.css.map",
     "static/js/2.d5099739.chunk.js.LICENSE.txt": "https://delicious-tan-adjustment.glitch.me/static/js/2.d5099739.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0c472b90.js",
     "static/js/2.d5099739.chunk.js",
-    "static/css/main.e7d22445.chunk.css",
-    "static/js/main.f15859be.chunk.js"
+    "static/css/main.68dc758f.chunk.css",
+    "static/js/main.9ed77802.chunk.js"
   ]
 }
