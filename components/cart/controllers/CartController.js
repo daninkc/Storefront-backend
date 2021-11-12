@@ -16,7 +16,7 @@ class Cart {
           fs.appendFileSync(this.absoluteRoute, `[${JSON.stringify(obj)}]`);
         }
         data = JSON.parse(data);
-        obj.id = data.length + 1;
+        obj.id = data[data.length - 1].id + 1;
         data.push(obj);
         fs.writeFileSync(this.absoluteRoute, JSON.stringify(data), "UTF-8");
         return obj;
