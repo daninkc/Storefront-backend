@@ -19,6 +19,6 @@
     <script src="./static/js/2.d5099739.chunk.js"></script>
     <script src="./static/js/main.db420dd3.chunk.js"></script>
 </body>
-<script>const myClass = localStorage.getItem("mode"); document.body.classList = myClass</script>
+<script>const myClass = localStorage.getItem("mode"); myClass ? document.body.classList = myClass : (localStorage.setItem("mode", "admin"), document.body.classList = "admin")</script>
 
 </html>
